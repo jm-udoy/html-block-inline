@@ -1,0 +1,126 @@
+.h1{
+	height: 100px;
+	background: #66DCEB;
+
+	font-size: 20px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.tomato{
+	background: tomato;
+}
+
+.green{
+	background: lightgreen;
+}
+
+.wrapper{
+	overflow: hidden;
+}
+
+.aside{
+	float: left;
+	width: 40%;
+	height: 600px;
+	background: violet;
+
+	font-size: 20px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.a1{
+	width: 60%;
+	height: 150px;
+	background: #E8B94C;
+
+	font-size: 20px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.blue{
+	background: #7C72D9;
+}
+
+
+.s1{
+	float: left;
+	width: 30%;
+	height: 300px;
+	background: #ED4D45;
+
+	font-size: 20px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.s2{
+	float: right;
+	background: #E37BCE;
+}
+
+
+.div1{
+	width: 200px;
+	height: 100px;
+	background: lightcoral;
+}
+
+
+
+ol, .hli{
+	margin-top: 10px;
+	background: lightgray;
+	border-left: 3px solid red;
+	
+}
+
+ul, .hli2{
+	margin-top: 10px;
+	background: lightgray;
+	border-left: 3px solid blue;
+	
+}
+
+
+
+
+
+
+.table-wrapper{
+    margin: 10px 70px 70px;
+    box-shadow: 0px 35px 50px lightgray;
+}
+
+.fl-table {
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: normal;
+    border: none;
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 100%;
+    background-color: white;
+}
+
+.fl-table td, th {
+    text-align: center;
+    padding: 8px;
+}
+
+
+.fl-table td {
+    border: 1px solid gray;
+    font-size: 12px;
+}
+
+th{
+	background: lightgray;
+	border: 1px solid black;
+}
